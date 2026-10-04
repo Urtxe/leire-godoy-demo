@@ -804,8 +804,10 @@ h2 em {
   }
   .mobile-contact a {
     min-height: 47px;
-    display: grid;
-    place-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
     text-align: center;
     text-decoration: none;
     font-size: 13px;

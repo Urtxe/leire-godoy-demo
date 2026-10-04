@@ -965,3 +965,4 @@ h2 em {
     font-size: 12px;
   }
 }
+.action-icon{display:inline-block;width:20px;height:20px;flex:none;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
